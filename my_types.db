@@ -1,0 +1,5 @@
+#TypesDB "/usr/share/collectd/types.db" "/etc/collectd/my_types.db"
+pg_6_largest_table          value:GAUGE:0:U
+pg_10_table_active          value:GAUGE:0:U
+pg_15_query_calls          value:GAUGE:0:U
+pg_15_query_times_ms          value:GAUGE:0:U
