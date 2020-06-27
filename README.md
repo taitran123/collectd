@@ -2,7 +2,7 @@
 Collectd Graphite Config
 
 
-sudo apt-get install collectd
+```sudo apt-get install collectd collectd-utils```
 
 ```SQL
 CREATE USER monitor WITH PASSWORD '12345678'; 
